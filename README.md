@@ -12,3 +12,5 @@
 ### 三、调用方式：
 + 修改KnowledgeGraph.py中的用户名和密码，运行代码，生成知识图谱
 + 运行IntelligentCommunicationSystem.py完成电影知识问答
+### 四、博文链接：
+https://blog.csdn.net/DALEONE/article/details/125116858?spm=1001.2014.3001.5501
